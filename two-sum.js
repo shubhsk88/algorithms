@@ -16,3 +16,4 @@ const targetPair = (arr, sum) => {
 };
 
 console.log(targetPair([2,5,9,11],11));
+clgz
