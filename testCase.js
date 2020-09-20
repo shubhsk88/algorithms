@@ -5,6 +5,6 @@ console.log(smallestDifference([-1, 5, 10, 20, 28, 3], [28, 134, 135, 15, 17]));
 
 moveElement([2, 1, 2, 2, 2, 3, 4, 2], 2);
 
-console.log(fun([7,10,12,7,9,14]))
+console.log(fun([7, 10, 12, 7, 9, 14]));
 
-productSum([5,2,[7,-1],3,[6,[-13,8],4]])
+productSum([5, 2, [7, -1], 3, [6, [-13, 8], 4]]); //12
