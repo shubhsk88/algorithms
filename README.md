@@ -3,24 +3,32 @@
 
 ## List of pattern to finish it up
 
-- [x]  Sliding window Patterns
+- [ ]  Sliding window Patterns
 
-- [ ] Two Pointer
-- [ ] Fast and Slow pointer
-[ ] Merge Intervals
-[ ] Cyclic Sort
-[ ] In-place Reversal of a linked list 
-[ ] Tree Bfs
-[ ] Tree DFS
-[ ] Two Heaps
-[ ] Subsets
-[ ] Modified Binary Search
-[ ] Bitwise XOR 
-[ ] Pattern K-Way merge
-[ ] KnapSack
-[ ] Topological Sort
-[ ] Fibonacci
-[ ] Longest Common Substring
-[ ] palindrome Partitioning
-[ ] Unbounded knapsack
- 
+- [x] Two Pointer
+- [x] Fast and Slow pointer
+- [x] Merge Intervals
+- [x] Cyclic Sort
+- [x] In-place Reversal of a linked list 
+- [x] Tree Bfs
+- [x] Tree DFS
+- [ ] Two Heaps
+
+- [ ] Subsets
+- [x] Modified Binary Search
+- [x] Bitwise XOR 
+- [ ] Pattern K-Way merge
+- [ ] KnapSack
+- [ ] Topological Sort
+- [ ] Fibonacci
+- [ ] Longest Common Substring
+
+- [ ] palindrome Partitioning
+- [ ] Unbounded knapsack
+
+
+
+main termination cases
+find the candidats
+insert candidaties into buffer
+recurse 
